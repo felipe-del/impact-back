@@ -72,7 +72,7 @@ La documentación completa del proyecto, incluyendo la API y las guías de insta
 Para más información o contribuciones, por favor contactar a:
 
 - **Desarrollador:** Isaac Felipe Brenes Calderon
-- **Correo:** [correo@example.com](mailto:isaacfelibrenes1904@gmail.com)
+- **Correo:** [isaacfelibrenes1904@gmail.com](mailto:isaacfelibrenes1904@gmail.com)
 
 ---
 
