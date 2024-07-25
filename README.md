@@ -4,7 +4,7 @@
 
 ## Descripción General
 
-El **Backend para la App IMPACT** es un proyecto desarrollado para el **Centro de Investigación en Materiales y Producción Avanzada (CIMPA)**, destinado a la **gestión de activos e inventario**. La aplicación está construida con Spring Boot, lo que garantiza una arquitectura robusta y escalable, y ofrece servicios RESTful eficientes.
+El **Backend para la App IMPACT** es un proyecto desarrollado para el **CIMPA**, destinado a la **gestión de activos e inventario**. La aplicación está construida con Spring Boot, lo que garantiza una arquitectura robusta y escalable, y ofrece servicios RESTful eficientes.
 
 ## 🚀 Objetivos del Proyecto
 
